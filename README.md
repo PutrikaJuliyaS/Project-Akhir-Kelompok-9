@@ -25,6 +25,3 @@ MENU ADMIN: <br>
 MENU USER:
 
 <img width="2186" height="1227" alt="FLOWCHART PA KEL 9 final-User drawio" src="https://github.com/user-attachments/assets/9617a8eb-a0ed-4a77-b2de-5c7a5817524a" />
-
-## DESKRIPSI SINGKAT: <br>
-## <br>Fitur
